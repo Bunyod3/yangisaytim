@@ -1,0 +1,49 @@
+.bord{
+  margin-top: 150px;
+  background-color: black;
+  width: 100%;
+  height: 488px;
+  margin-top: 5px;
+  color: white;
+  text-align: left;
+  padding: 20px;
+}
+.nb{
+  text-decoration-line: none;
+}
+.image{
+  width: 510px;
+  height: 510px;
+  object-fit: contain;
+}
+.old{
+  margin-top: 200px;
+  background-color: white;
+  width: 100%;
+  height: 200px;
+  color: black;
+  text-align: left;
+  padding: 20px;
+}
+#ty{
+  background-color:rgb(240, 138, 6);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.bor{
+    margin-top: 150px;
+  background-color: black;
+  width: 80%;
+  height: 488px;
+  margin-top: 5px;
+  color: white;
+  text-align: left;
+  padding: 20px;
+}
+.images{
+    width: 230px;
+  height: 60px;
+  object-fit: contain;
+}
