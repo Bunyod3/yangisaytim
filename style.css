@@ -47,3 +47,9 @@
   height: 60px;
   object-fit: contain;
 }
+.bola{
+ width: 370px;
+ height: 90px;
+ letter-spacing: 2px;
+ word-spacing: 1.5px;
+}
